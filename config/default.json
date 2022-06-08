@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://omotolamac:omotolamac@contact.8jhkj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://omotolamac:omotolamac@contact.8jhkj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "secret"
 } 
